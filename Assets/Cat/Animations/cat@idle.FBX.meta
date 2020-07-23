@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 5e707b676c45504428b71b2d98f0ab8b
+timeCreated: 1515177152
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cat
+    100002: //RootNode
+    100004: Cat_Caudal_bone
+    100006: Cat_l_Ankle_bone
+    100008: Cat_l_Ankle_ctrl
+    100010: cat_l_Claw_ctrl
+    100012: Cat_l_Ear1_bone
+    100014: Cat_l_Ear2-nub_bone
+    100016: Cat_l_Ear2_bone
+    100018: Cat_l_Femur_bone
+    100020: Cat_l_Humerus_bone
+    100022: Cat_l_LipB_bone
+    100024: Cat_l_LipF_bone
+    100026: Cat_l_LipM_bone
+    100028: Cat_l_Metacarpals_bone
+    100030: Cat_l_Metatarsals_bone
+    100032: Cat_l_Pelvis_bone
+    100034: Cat_l_Phalanges_bone
+    100036: Cat_l_Phalanges_bone 1
+    100038: Cat_l_Scapula_bone
+    100040: Cat_l_Tibia_bone
+    100042: Cat_l_Ulna_bone
+    100044: Cat_l_Wrist_bone
+    100046: Cat_Mandible2-nub_bone
+    100048: Cat_Mandible2_bone
+    100050: Cat_Mandible_bone
+    100052: Cat_Neck1_bone
+    100054: Cat_Neck2_bone
+    100056: Cat_Neck3_bone
+    100058: Cat_Neck4_bone
+    100060: Cat_Neck5_bone
+    100062: Cat_Neck_bone
+    100064: Cat_r_Ankle_bone
+    100066: cat_r_Claw_ctrl
+    100068: cat_r_Claw_ctrl 1
+    100070: Cat_r_Ear1_bone
+    100072: Cat_r_Ear2-nub_bone
+    100074: Cat_r_Ear2_bone
+    100076: Cat_r_Femur_bone
+    100078: Cat_r_Humerus_bone
+    100080: Cat_r_LipB_bone
+    100082: Cat_r_LipF_bone
+    100084: Cat_r_LipM_bone
+    100086: Cat_r_Metacarpals_bone
+    100088: Cat_r_Metatarsals_bone
+    100090: Cat_r_Pelvis_bone
+    100092: Cat_r_Phalanges_bone
+    100094: Cat_r_Phalanges_bone 1
+    100096: Cat_r_Scapula_bone
+    100098: Cat_r_Tibia_bone
+    100100: Cat_r_Ulna_bone
+    100102: Cat_r_Wrist_bone
+    100104: Cat_Skull_bone
+    100106: Cat_Snout-nub_bone
+    100108: Cat_Snout_bone
+    100110: Cat_Spine1_bone
+    100112: Cat_Spine2_bone
+    100114: Cat_Spine3_bone
+    100116: Cat_Spine4_bone
+    100118: Cat_Spine5_bone
+    100120: Cat_Spine6_bone
+    100122: Cat_Spine7_bone
+    100124: Cat_Tail10_bone
+    100126: Cat_Tail11_bone
+    100128: Cat_Tail12_bone
+    100130: Cat_Tail13_bone
+    100132: Cat_Tail14_bone
+    100134: Cat_Tail15_bone
+    100136: Cat_Tail16_bone
+    100138: Cat_Tail17_bone
+    100140: Cat_Tail1_bone
+    100142: Cat_Tail2_bone
+    100144: Cat_Tail3_bone
+    100146: Cat_Tail4_bone
+    100148: Cat_Tail5_bone
+    100150: Cat_Tail6_bone
+    100152: Cat_Tail7_bone
+    100154: Cat_Tail8_bone
+    100156: Cat_Tail9_bone
+    100158: Cat_Thorax_bone
+    100160: FrontLegController_L
+    100162: FrontLegController_R
+    100164: GeneralController
+    100166: HindLegController_L
+    100168: HindLegController_R
+    100170: IK Chain001
+    100172: IK Chain002
+    100174: IK Chain003
+    100176: IK Chain004
+    100178: IK Chain005
+    100180: IK Chain006
+    100182: IK Chain007
+    100184: IK Chain008
+    100186: IK Chain009
+    100188: IK Chain010
+    100190: IK Chain011
+    100192: IK Chain012
+    100194: IK Chain013
+    100196: IK Chain014
+    100198: IK Chain015
+    100200: Lower
+    100202: MouthController
+    100204: Point001
+    100206: Point002
+    100208: Point003
+    100210: Point004
+    100212: Point005
+    100214: Point006
+    100216: Point007
+    100218: Point008
+    100220: Point009
+    100222: Point010
+    100224: Point011
+    100226: Point012
+    100228: Point013
+    100230: Point014
+    100232: Point015
+    100234: Point016
+    100236: Upper
+    400000: Cat
+    400002: //RootNode
+    400004: Cat_Caudal_bone
+    400006: Cat_l_Ankle_bone
+    400008: Cat_l_Ankle_ctrl
+    400010: cat_l_Claw_ctrl
+    400012: Cat_l_Ear1_bone
+    400014: Cat_l_Ear2-nub_bone
+    400016: Cat_l_Ear2_bone
+    400018: Cat_l_Femur_bone
+    400020: Cat_l_Humerus_bone
+    400022: Cat_l_LipB_bone
+    400024: Cat_l_LipF_bone
+    400026: Cat_l_LipM_bone
+    400028: Cat_l_Metacarpals_bone
+    400030: Cat_l_Metatarsals_bone
+    400032: Cat_l_Pelvis_bone
+    400034: Cat_l_Phalanges_bone
+    400036: Cat_l_Phalanges_bone 1
+    400038: Cat_l_Scapula_bone
+    400040: Cat_l_Tibia_bone
+    400042: Cat_l_Ulna_bone
+    400044: Cat_l_Wrist_bone
+    400046: Cat_Mandible2-nub_bone
+    400048: Cat_Mandible2_bone
+    400050: Cat_Mandible_bone
+    400052: Cat_Neck1_bone
+    400054: Cat_Neck2_bone
+    400056: Cat_Neck3_bone
+    400058: Cat_Neck4_bone
+    400060: Cat_Neck5_bone
+    400062: Cat_Neck_bone
+    400064: Cat_r_Ankle_bone
+    400066: cat_r_Claw_ctrl
+    400068: cat_r_Claw_ctrl 1
+    400070: Cat_r_Ear1_bone
+    400072: Cat_r_Ear2-nub_bone
+    400074: Cat_r_Ear2_bone
+    400076: Cat_r_Femur_bone
+    400078: Cat_r_Humerus_bone
+    400080: Cat_r_LipB_bone
+    400082: Cat_r_LipF_bone
+    400084: Cat_r_LipM_bone
+    400086: Cat_r_Metacarpals_bone
+    400088: Cat_r_Metatarsals_bone
+    400090: Cat_r_Pelvis_bone
+    400092: Cat_r_Phalanges_bone
+    400094: Cat_r_Phalanges_bone 1
+    400096: Cat_r_Scapula_bone
+    400098: Cat_r_Tibia_bone
+    400100: Cat_r_Ulna_bone
+    400102: Cat_r_Wrist_bone
+    400104: Cat_Skull_bone
+    400106: Cat_Snout-nub_bone
+    400108: Cat_Snout_bone
+    400110: Cat_Spine1_bone
+    400112: Cat_Spine2_bone
+    400114: Cat_Spine3_bone
+    400116: Cat_Spine4_bone
+    400118: Cat_Spine5_bone
+    400120: Cat_Spine6_bone
+    400122: Cat_Spine7_bone
+    400124: Cat_Tail10_bone
+    400126: Cat_Tail11_bone
+    400128: Cat_Tail12_bone
+    400130: Cat_Tail13_bone
+    400132: Cat_Tail14_bone
+    400134: Cat_Tail15_bone
+    400136: Cat_Tail16_bone
+    400138: Cat_Tail17_bone
+    400140: Cat_Tail1_bone
+    400142: Cat_Tail2_bone
+    400144: Cat_Tail3_bone
+    400146: Cat_Tail4_bone
+    400148: Cat_Tail5_bone
+    400150: Cat_Tail6_bone
+    400152: Cat_Tail7_bone
+    400154: Cat_Tail8_bone
+    400156: Cat_Tail9_bone
+    400158: Cat_Thorax_bone
+    400160: FrontLegController_L
+    400162: FrontLegController_R
+    400164: GeneralController
+    400166: HindLegController_L
+    400168: HindLegController_R
+    400170: IK Chain001
+    400172: IK Chain002
+    400174: IK Chain003
+    400176: IK Chain004
+    400178: IK Chain005
+    400180: IK Chain006
+    400182: IK Chain007
+    400184: IK Chain008
+    400186: IK Chain009
+    400188: IK Chain010
+    400190: IK Chain011
+    400192: IK Chain012
+    400194: IK Chain013
+    400196: IK Chain014
+    400198: IK Chain015
+    400200: Lower
+    400202: MouthController
+    400204: Point001
+    400206: Point002
+    400208: Point003
+    400210: Point004
+    400212: Point005
+    400214: Point006
+    400216: Point007
+    400218: Point008
+    400220: Point009
+    400222: Point010
+    400224: Point011
+    400226: Point012
+    400228: Point013
+    400230: Point014
+    400232: Point015
+    400234: Point016
+    400236: Upper
+    4300000: Cat
+    7400000: idle
+    9500000: //RootNode
+    13700000: Cat
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 610
+      lastFrame: 670
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cat
+        weight: 1
+      - path: GeneralController
+        weight: 1
+      - path: GeneralController/FrontLegController_L
+        weight: 1
+      - path: GeneralController/FrontLegController_L/Point014
+        weight: 1
+      - path: GeneralController/FrontLegController_L/Point014/IK Chain007
+        weight: 1
+      - path: GeneralController/FrontLegController_L/Point015
+        weight: 1
+      - path: GeneralController/FrontLegController_L/Point015/IK Chain005
+        weight: 1
+      - path: GeneralController/FrontLegController_R
+        weight: 1
+      - path: GeneralController/FrontLegController_R/Point001
+        weight: 1
+      - path: GeneralController/FrontLegController_R/Point001/IK Chain001
+        weight: 1
+      - path: GeneralController/FrontLegController_R/Point002
+        weight: 1
+      - path: GeneralController/FrontLegController_R/Point002/IK Chain006
+        weight: 1
+      - path: GeneralController/HindLegController_L
+        weight: 1
+      - path: GeneralController/HindLegController_L/Point011
+        weight: 1
+      - path: GeneralController/HindLegController_L/Point011/IK Chain009
+        weight: 1
+      - path: GeneralController/HindLegController_L/Point012
+        weight: 1
+      - path: GeneralController/HindLegController_L/Point012/IK Chain013
+        weight: 1
+      - path: GeneralController/HindLegController_R
+        weight: 1
+      - path: GeneralController/HindLegController_R/Point008
+        weight: 1
+      - path: GeneralController/HindLegController_R/Point008/IK Chain008
+        weight: 1
+      - path: GeneralController/HindLegController_R/Point009
+        weight: 1
+      - path: GeneralController/HindLegController_R/Point009/IK Chain012
+        weight: 1
+      - path: GeneralController/Point003
+        weight: 1
+      - path: GeneralController/Point003/IK Chain002
+        weight: 1
+      - path: GeneralController/Point004
+        weight: 1
+      - path: GeneralController/Point004/IK Chain003
+        weight: 1
+      - path: GeneralController/Point006
+        weight: 1
+      - path: GeneralController/Point006/IK Chain014
+        weight: 1
+      - path: GeneralController/Point006/Point005
+        weight: 1
+      - path: GeneralController/Point006/Point005/Cat_l_LipB_bone
+        weight: 1
+      - path: GeneralController/Point006/Point005/Cat_l_LipF_bone
+        weight: 1
+      - path: GeneralController/Point006/Point005/Cat_l_LipM_bone
+        weight: 1
+      - path: GeneralController/Point006/Point005/Cat_r_LipB_bone
+        weight: 1
+      - path: GeneralController/Point006/Point005/Cat_r_LipF_bone
+        weight: 1
+      - path: GeneralController/Point006/Point005/Cat_r_LipM_bone
+        weight: 1
+      - path: GeneralController/Point006/Point005/IK Chain015
+        weight: 1
+      - path: GeneralController/Point007
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Caudal_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Caudal_bone/Cat_Tail1_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Caudal_bone/Cat_Tail1_bone/Cat_Tail2_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Caudal_bone/Cat_Tail1_bone/Cat_Tail2_bone/Cat_Tail3_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Caudal_bone/Cat_Tail1_bone/Cat_Tail2_bone/Cat_Tail3_bone/Cat_Tail4_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Caudal_bone/Cat_Tail1_bone/Cat_Tail2_bone/Cat_Tail3_bone/Cat_Tail4_bone/Cat_Tail5_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Caudal_bone/Cat_Tail1_bone/Cat_Tail2_bone/Cat_Tail3_bone/Cat_Tail4_bone/Cat_Tail5_bone/Cat_Tail6_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Caudal_bone/Cat_Tail1_bone/Cat_Tail2_bone/Cat_Tail3_bone/Cat_Tail4_bone/Cat_Tail5_bone/Cat_Tail6_bone/Cat_Tail7_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Caudal_bone/Cat_Tail1_bone/Cat_Tail2_bone/Cat_Tail3_bone/Cat_Tail4_bone/Cat_Tail5_bone/Cat_Tail6_bone/Cat_Tail7_bone/Cat_Tail8_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Caudal_bone/Cat_Tail1_bone/Cat_Tail2_bone/Cat_Tail3_bone/Cat_Tail4_bone/Cat_Tail5_bone/Cat_Tail6_bone/Cat_Tail7_bone/Cat_Tail8_bone/Cat_Tail9_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Caudal_bone/Cat_Tail1_bone/Cat_Tail2_bone/Cat_Tail3_bone/Cat_Tail4_bone/Cat_Tail5_bone/Cat_Tail6_bone/Cat_Tail7_bone/Cat_Tail8_bone/Cat_Tail9_bone/Cat_Tail10_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Caudal_bone/Cat_Tail1_bone/Cat_Tail2_bone/Cat_Tail3_bone/Cat_Tail4_bone/Cat_Tail5_bone/Cat_Tail6_bone/Cat_Tail7_bone/Cat_Tail8_bone/Cat_Tail9_bone/Cat_Tail10_bone/Cat_Tail11_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Caudal_bone/Cat_Tail1_bone/Cat_Tail2_bone/Cat_Tail3_bone/Cat_Tail4_bone/Cat_Tail5_bone/Cat_Tail6_bone/Cat_Tail7_bone/Cat_Tail8_bone/Cat_Tail9_bone/Cat_Tail10_bone/Cat_Tail11_bone/Cat_Tail12_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Caudal_bone/Cat_Tail1_bone/Cat_Tail2_bone/Cat_Tail3_bone/Cat_Tail4_bone/Cat_Tail5_bone/Cat_Tail6_bone/Cat_Tail7_bone/Cat_Tail8_bone/Cat_Tail9_bone/Cat_Tail10_bone/Cat_Tail11_bone/Cat_Tail12_bone/Cat_Tail13_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Caudal_bone/Cat_Tail1_bone/Cat_Tail2_bone/Cat_Tail3_bone/Cat_Tail4_bone/Cat_Tail5_bone/Cat_Tail6_bone/Cat_Tail7_bone/Cat_Tail8_bone/Cat_Tail9_bone/Cat_Tail10_bone/Cat_Tail11_bone/Cat_Tail12_bone/Cat_Tail13_bone/Cat_Tail14_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Caudal_bone/Cat_Tail1_bone/Cat_Tail2_bone/Cat_Tail3_bone/Cat_Tail4_bone/Cat_Tail5_bone/Cat_Tail6_bone/Cat_Tail7_bone/Cat_Tail8_bone/Cat_Tail9_bone/Cat_Tail10_bone/Cat_Tail11_bone/Cat_Tail12_bone/Cat_Tail13_bone/Cat_Tail14_bone/Cat_Tail15_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Caudal_bone/Cat_Tail1_bone/Cat_Tail2_bone/Cat_Tail3_bone/Cat_Tail4_bone/Cat_Tail5_bone/Cat_Tail6_bone/Cat_Tail7_bone/Cat_Tail8_bone/Cat_Tail9_bone/Cat_Tail10_bone/Cat_Tail11_bone/Cat_Tail12_bone/Cat_Tail13_bone/Cat_Tail14_bone/Cat_Tail15_bone/Cat_Tail16_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Caudal_bone/Cat_Tail1_bone/Cat_Tail2_bone/Cat_Tail3_bone/Cat_Tail4_bone/Cat_Tail5_bone/Cat_Tail6_bone/Cat_Tail7_bone/Cat_Tail8_bone/Cat_Tail9_bone/Cat_Tail10_bone/Cat_Tail11_bone/Cat_Tail12_bone/Cat_Tail13_bone/Cat_Tail14_bone/Cat_Tail15_bone/Cat_Tail16_bone/Cat_Tail17_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_l_Pelvis_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_l_Pelvis_bone/Cat_l_Femur_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_l_Pelvis_bone/Cat_l_Femur_bone/Cat_l_Tibia_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_l_Pelvis_bone/Cat_l_Femur_bone/Cat_l_Tibia_bone/Cat_l_Metatarsals_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_l_Pelvis_bone/Cat_l_Femur_bone/Cat_l_Tibia_bone/Cat_l_Metatarsals_bone/Cat_l_Phalanges_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_l_Pelvis_bone/Cat_l_Femur_bone/Cat_l_Tibia_bone/Cat_l_Metatarsals_bone/Cat_l_Phalanges_bone/Cat_l_Ankle_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_l_Pelvis_bone/Cat_l_Femur_bone/Cat_l_Tibia_bone/Cat_l_Metatarsals_bone/Cat_l_Phalanges_bone/Cat_l_Ankle_ctrl
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_r_Pelvis_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_r_Pelvis_bone/Cat_r_Femur_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_r_Pelvis_bone/Cat_r_Femur_bone/Cat_r_Tibia_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_r_Pelvis_bone/Cat_r_Femur_bone/Cat_r_Tibia_bone/Cat_r_Metatarsals_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_r_Pelvis_bone/Cat_r_Femur_bone/Cat_r_Tibia_bone/Cat_r_Metatarsals_bone/Cat_r_Phalanges_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_r_Pelvis_bone/Cat_r_Femur_bone/Cat_r_Tibia_bone/Cat_r_Metatarsals_bone/Cat_r_Phalanges_bone/Cat_r_Ankle_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_r_Pelvis_bone/Cat_r_Femur_bone/Cat_r_Tibia_bone/Cat_r_Metatarsals_bone/Cat_r_Phalanges_bone/cat_r_Claw_ctrl
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_l_Scapula_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_l_Scapula_bone/Cat_l_Humerus_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_l_Scapula_bone/Cat_l_Humerus_bone/Cat_l_Ulna_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_l_Scapula_bone/Cat_l_Humerus_bone/Cat_l_Ulna_bone/Cat_l_Metacarpals_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_l_Scapula_bone/Cat_l_Humerus_bone/Cat_l_Ulna_bone/Cat_l_Metacarpals_bone/Cat_l_Phalanges_bone
+          1
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_l_Scapula_bone/Cat_l_Humerus_bone/Cat_l_Ulna_bone/Cat_l_Metacarpals_bone/Cat_l_Phalanges_bone
+          1/cat_l_Claw_ctrl
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_l_Scapula_bone/Cat_l_Humerus_bone/Cat_l_Ulna_bone/Cat_l_Metacarpals_bone/Cat_l_Phalanges_bone
+          1/Cat_l_Wrist_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_Neck_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_Neck_bone/Cat_Neck1_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_Neck_bone/Cat_Neck1_bone/Cat_Neck2_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_Neck_bone/Cat_Neck1_bone/Cat_Neck2_bone/Cat_Neck3_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_Neck_bone/Cat_Neck1_bone/Cat_Neck2_bone/Cat_Neck3_bone/Cat_Neck4_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_Neck_bone/Cat_Neck1_bone/Cat_Neck2_bone/Cat_Neck3_bone/Cat_Neck4_bone/Cat_Neck5_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_Neck_bone/Cat_Neck1_bone/Cat_Neck2_bone/Cat_Neck3_bone/Cat_Neck4_bone/Cat_Neck5_bone/Cat_Skull_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_Neck_bone/Cat_Neck1_bone/Cat_Neck2_bone/Cat_Neck3_bone/Cat_Neck4_bone/Cat_Neck5_bone/Cat_Skull_bone/Cat_l_Ear1_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_Neck_bone/Cat_Neck1_bone/Cat_Neck2_bone/Cat_Neck3_bone/Cat_Neck4_bone/Cat_Neck5_bone/Cat_Skull_bone/Cat_l_Ear1_bone/Cat_l_Ear2_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_Neck_bone/Cat_Neck1_bone/Cat_Neck2_bone/Cat_Neck3_bone/Cat_Neck4_bone/Cat_Neck5_bone/Cat_Skull_bone/Cat_l_Ear1_bone/Cat_l_Ear2_bone/Cat_l_Ear2-nub_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_Neck_bone/Cat_Neck1_bone/Cat_Neck2_bone/Cat_Neck3_bone/Cat_Neck4_bone/Cat_Neck5_bone/Cat_Skull_bone/Cat_Mandible_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_Neck_bone/Cat_Neck1_bone/Cat_Neck2_bone/Cat_Neck3_bone/Cat_Neck4_bone/Cat_Neck5_bone/Cat_Skull_bone/Cat_Mandible_bone/Cat_Mandible2_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_Neck_bone/Cat_Neck1_bone/Cat_Neck2_bone/Cat_Neck3_bone/Cat_Neck4_bone/Cat_Neck5_bone/Cat_Skull_bone/Cat_Mandible_bone/Cat_Mandible2_bone/Cat_Mandible2-nub_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_Neck_bone/Cat_Neck1_bone/Cat_Neck2_bone/Cat_Neck3_bone/Cat_Neck4_bone/Cat_Neck5_bone/Cat_Skull_bone/Cat_r_Ear1_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_Neck_bone/Cat_Neck1_bone/Cat_Neck2_bone/Cat_Neck3_bone/Cat_Neck4_bone/Cat_Neck5_bone/Cat_Skull_bone/Cat_r_Ear1_bone/Cat_r_Ear2_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_Neck_bone/Cat_Neck1_bone/Cat_Neck2_bone/Cat_Neck3_bone/Cat_Neck4_bone/Cat_Neck5_bone/Cat_Skull_bone/Cat_r_Ear1_bone/Cat_r_Ear2_bone/Cat_r_Ear2-nub_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_Neck_bone/Cat_Neck1_bone/Cat_Neck2_bone/Cat_Neck3_bone/Cat_Neck4_bone/Cat_Neck5_bone/Cat_Skull_bone/Cat_Snout_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_Neck_bone/Cat_Neck1_bone/Cat_Neck2_bone/Cat_Neck3_bone/Cat_Neck4_bone/Cat_Neck5_bone/Cat_Skull_bone/Cat_Snout_bone/Cat_Snout-nub_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_r_Scapula_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_r_Scapula_bone/Cat_r_Humerus_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_r_Scapula_bone/Cat_r_Humerus_bone/Cat_r_Ulna_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_r_Scapula_bone/Cat_r_Humerus_bone/Cat_r_Ulna_bone/Cat_r_Metacarpals_bone
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_r_Scapula_bone/Cat_r_Humerus_bone/Cat_r_Ulna_bone/Cat_r_Metacarpals_bone/Cat_r_Phalanges_bone
+          1
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_r_Scapula_bone/Cat_r_Humerus_bone/Cat_r_Ulna_bone/Cat_r_Metacarpals_bone/Cat_r_Phalanges_bone
+          1/cat_r_Claw_ctrl 1
+        weight: 1
+      - path: GeneralController/Point007/Cat_Spine1_bone/Cat_Spine2_bone/Cat_Spine3_bone/Cat_Spine4_bone/Cat_Spine5_bone/Cat_Spine6_bone/Cat_Spine7_bone/Cat_Thorax_bone/Cat_r_Scapula_bone/Cat_r_Humerus_bone/Cat_r_Ulna_bone/Cat_r_Metacarpals_bone/Cat_r_Phalanges_bone
+          1/Cat_r_Wrist_bone
+        weight: 1
+      - path: GeneralController/Point010
+        weight: 1
+      - path: GeneralController/Point010/IK Chain010
+        weight: 1
+      - path: GeneralController/Point013
+        weight: 1
+      - path: GeneralController/Point013/IK Chain011
+        weight: 1
+      - path: GeneralController/Point016
+        weight: 1
+      - path: GeneralController/Point016/IK Chain004
+        weight: 1
+      - path: MouthController
+        weight: 1
+      - path: MouthController/Lower
+        weight: 1
+      - path: MouthController/Upper
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 610
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: GeneralController
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
